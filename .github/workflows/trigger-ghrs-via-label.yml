@@ -11,5 +11,7 @@ jobs:
       - name: trigger
         if: github.event.label.name == 'run-ghrs'
         env:
-          GCS_SVC_ACC_JSON: ${{ secrets.ghrs_gcs_svc_acc_json }}
+          GHRS_GCS_BUCKET_NAME: gh-repo-stats-jgehrcke
+          GHRS_GCS_SVC_ACC_JSON: ${{ secrets.ghrs_gcs_svc_acc_json }}
+          GHRS_GITHUB_API_TOKEN: ${{ secrets.ghrs_github_api_token }}
         uses: jgehrcke/github-repo-stats@HEAD
