@@ -12,4 +12,4 @@ jobs:
         if: github.event.label.name == 'run-ghrs'
         env:
           GCS_SVC_ACC_JSON: ${{ secrets.ghrs_gcs_svc_acc_json }}
-        uses: jgehrcke/github-repo-stats@5eccde8a9864864df12e9890fc79fbf7bfecaaf0
+        uses: jgehrcke/github-repo-stats@HEAD
