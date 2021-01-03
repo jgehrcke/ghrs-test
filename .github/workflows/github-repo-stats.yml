@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: GHRS
+        env:
+          # Can read the stats repo, and push to data repo
+          GHRS_GITHUB_API_TOKEN: ${{ secrets.ghrs_github_api_token }}
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           repository: jgehrcke/covid-19-germany-gae
