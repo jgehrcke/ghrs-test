@@ -12,6 +12,7 @@ jobs:
       - name: GHRS
         uses: jgehrcke/github-repo-stats@HEAD
         with:
+          ghpagesprefix: https://jgehrcke.github.io/ghrs-test
           repository: jgehrcke/covid-19-germany-gae
           # Can read the stats repo, and push to data repo
           ghtoken: ${{ secrets.ghrs_github_api_token }}
