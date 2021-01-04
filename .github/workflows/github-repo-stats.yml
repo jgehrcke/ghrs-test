@@ -1,12 +1,12 @@
 on:
   schedule:
-    - cron: "*/30 * * * *"
-  # Allow to run this workflow manually from the Actions tab
-  workflow_dispatch:
+    # Run this twice per day (hours in UTC time zone).
+    - cron: "* 1,13 * * *"
+  workflow_dispatch: # Allow for running this manually.
 
 jobs:
   j1:
-    name: GHRS
+    name: github-repo-stats
     runs-on: ubuntu-latest
     steps:
       - name: GHRS
