@@ -1,4 +1,4 @@
-time,clones_total,clones_unique,views_total,views_unique
+time_iso8601,clones_total,clones_unique,views_total,views_unique
 2020-12-07 00:00:00+00:00,,,25,4
 2020-12-08 00:00:00+00:00,2.0,2.0,89,17
 2020-12-09 00:00:00+00:00,3.0,3.0,72,20
