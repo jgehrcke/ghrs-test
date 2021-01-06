@@ -1,7 +1,7 @@
 on:
   schedule:
-    # Run this twice per day (hours in UTC time zone).
-    - cron: "* 1,13 * * *"
+    # Run this once per day (hours in UTC time zone).
+    - cron: "* 7 * * *"
   workflow_dispatch: # Allow for running this manually.
 
 jobs:
@@ -13,7 +13,12 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           ghpagesprefix: https://jgehrcke.github.io/ghrs-test
+          # Define the target repository, the repo to fetch
+          # stats for and to generate the report for.
           repository: jgehrcke/covid-19-germany-gae
-          # Can read the stats repo, and push to data repo
+          # Required token privileges: Can read the target
+          # repo, and can push to the repository this
+          # workflow file lives in (to store data and
+          # the report files).
           ghtoken: ${{ secrets.ghrs_github_api_token }}
 
