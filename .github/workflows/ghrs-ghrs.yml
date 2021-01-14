@@ -1,3 +1,4 @@
+name: GHRS4ghrs
 on:
   schedule:
     # Run this once per day.
@@ -17,7 +18,7 @@ jobs:
           ghpagesprefix: https://jgehrcke.github.io/ghrs-test
           # Define the target repository, the repo to fetch
           # stats for and to generate the report for.
-          repository: jgehrcke/github-repo-stats
+          repository: jgehrcke/github-repo-stats@1.0.0
           # Required token privileges: Can read the target
           # repo, and can push to the repository this
           # workflow file lives in (to store data and
