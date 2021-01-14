@@ -1,3 +1,4 @@
+name: GHRS:covid19
 on:
   schedule:
     # Run this once per day.

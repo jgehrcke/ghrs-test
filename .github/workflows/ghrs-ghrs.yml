@@ -1,4 +1,4 @@
-name: GHRS4ghrs
+name: GHRS:ghrs
 on:
   schedule:
     # Run this once per day.
@@ -13,12 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: GHRS
-        uses: jgehrcke/github-repo-stats
+        uses: jgehrcke/github-repo-stats@v1.0.0
         with:
           ghpagesprefix: https://jgehrcke.github.io/ghrs-test
           # Define the target repository, the repo to fetch
           # stats for and to generate the report for.
-          repository: jgehrcke/github-repo-stats@1.0.0
+          repository: jgehrcke/github-repo-stats
           # Required token privileges: Can read the target
           # repo, and can push to the repository this
           # workflow file lives in (to store data and
