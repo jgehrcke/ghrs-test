@@ -1,5 +1,5 @@
 % Statistics for jgehrcke/covid-19-germany-gae
-% Generated with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-02-13 22:48 UTC.
+% Generated with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-02-13 22:55 UTC.
 
 
 ## Views
@@ -68,7 +68,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `t.co`, 04: `gehrcke.de`, 05: `Bing`, 06: `covid19-germany.appspot.com`, 07: `DuckDuckGo`, 08: `dannlos.de`, 09: `oaseforum.de`, 10: `govdata.de`, 11: `developer.here.com`, 12: `StartPage`, 13: `cn.bing.com`, 14: `htw-berlin-statistik-gruppe-1-0.shinyapps.io`, 15: `wzforum.de`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `t.co`, 04: `gehrcke.de`, 05: `Bing`, 06: `covid19-germany.appspot.com`, 07: `DuckDuckGo`, 08: `dannlos.de`, 09: `oaseforum.de`, 10: `govdata.de`, 11: `developer.here.com`, 12: `StartPage`, 13: `raw.githubusercontent.com`, 14: `ecosia.org`, 15: `coccoc.com`
 
 
 
@@ -79,7 +79,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `t.co`, 04: `gehrcke.de`, 
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/blob/master/cases-rki-by-state.csv`, 03: `/blob/master/cases-rki-by-ags.csv`, 04: `/blob/master/data.csv`, 05: `/blob/master/ags.json`, 06: `/tree/master/gae`, 07: `/tree/master/tools`, 08: `/blob/master/cases-rl-crowdsource-by-state.csv`, 09: `/tree/master/plots`, 10: `/tree/master/more-data`, 11: `/tree/master/examples`, 12: `/find/master`, 13: `/blob/master/more-data/7di-rki-by-ags.csv`, 14: `/blob/master/deaths-rki-by-state.csv`, 15: `/issues`
+Top 15 paths: 01: `/`, 02: `/blob/master/cases-rki-by-state.csv`, 03: `/blob/master/cases-rki-by-ags.csv`, 04: `/blob/master/data.csv`, 05: `/blob/master/ags.json`, 06: `/tree/master/gae`, 07: `/tree/master/tools`, 08: `/blob/master/cases-rl-crowdsource-by-state.csv`, 09: `/tree/master/plots`, 10: `/tree/master/more-data`, 11: `/tree/master/examples`, 12: `/find/master`, 13: `/blob/master/deaths-rki-by-state.csv`, 14: `/blob/master/more-data/7di-rki-by-ags.csv`, 15: `/issues`
 
 
 <script type="text/javascript">
