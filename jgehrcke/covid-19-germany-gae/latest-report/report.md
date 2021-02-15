@@ -1,5 +1,5 @@
 % Statistics for jgehrcke/covid-19-germany-gae
-% Generated with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-02-15 22:32 UTC.
+% Generated with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-02-15 22:49 UTC.
 
 
 ## Views
@@ -68,7 +68,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `t.co`, 04: `gehrcke.de`, 05: `Bing`, 06: `covid19-germany.appspot.com`, 07: `oaseforum.de`, 08: `DuckDuckGo`, 09: `dannlos.de`, 10: `govdata.de`, 11: `developer.here.com`, 12: `StartPage`, 13: `covid19.eng.ox.ac.uk`, 14: `ecosia.org`, 15: `coccoc.com`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `t.co`, 04: `gehrcke.de`, 05: `Bing`, 06: `covid19-germany.appspot.com`, 07: `oaseforum.de`, 08: `DuckDuckGo`, 09: `dannlos.de`, 10: `govdata.de`, 11: `developer.here.com`, 12: `StartPage`, 13: `ethoma.de`, 14: `mail01.tinyletterapp.com`, 15: `gist.github.com`
 
 
 
