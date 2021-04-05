@@ -1,5 +1,5 @@
 % Statistics for jgehrcke/covid-19-germany-gae
-% Generated for [jgehrcke/covid-19-germany-gae](https://github.com/jgehrcke/covid-19-germany-gae) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-04-05 22:42 UTC.
+% Generated for [jgehrcke/covid-19-germany-gae](https://github.com/jgehrcke/covid-19-germany-gae) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-04-05 23:01 UTC.
 
 
 ## Views
@@ -68,7 +68,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `linkedin.com`, 04: `t.co`, 05: `gehrcke.de`, 06: `Bing`, 07: `govdata.de`, 08: `covid19-germany.appspot.com`, 09: `dannlos.de`, 10: `oaseforum.de`, 11: `DuckDuckGo`, 12: `developer.here.com`, 13: `StartPage`, 14: `ecosia.org`, 15: `gist.github.com`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `linkedin.com`, 04: `t.co`, 05: `gehrcke.de`, 06: `Bing`, 07: `govdata.de`, 08: `covid19-germany.appspot.com`, 09: `dannlos.de`, 10: `oaseforum.de`, 11: `DuckDuckGo`, 12: `developer.here.com`, 13: `StartPage`, 14: `ecosia.org`, 15: `g86.i-research.edu.eu.org`
 
 
 
@@ -79,7 +79,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `linkedin.com`, 04: `t.co`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/blob/master/cases-rki-by-state.csv`, 03: `/blob/master/cases-rki-by-ags.csv`, 04: `/blob/master/data.csv`, 05: `/blob/master/ags.json`, 06: `/tree/master/more-data`, 07: `/tree/master/examples`, 08: `/tree/master/gae`, 09: `/tree/master/geodata`, 10: `/tree/master/tools`, 11: `/blob/master/cases-rl-crowdsource-by-state.csv`, 12: `/tree/master/plots`, 13: `/find/master`, 14: `/blob/master/cases-rl-crowdsource-by-ags.csv`, 15: `/issues`
+Top 15 paths: 01: `/`, 02: `/blob/master/cases-rki-by-state.csv`, 03: `/blob/master/cases-rki-by-ags.csv`, 04: `/blob/master/data.csv`, 05: `/blob/master/ags.json`, 06: `/tree/master/more-data`, 07: `/tree/master/examples`, 08: `/tree/master/gae`, 09: `/tree/master/geodata`, 10: `/tree/master/tools`, 11: `/blob/master/cases-rl-crowdsource-by-state.csv`, 12: `/tree/master/plots`, 13: `/find/master`, 14: `/blob/master/cases-rl-crowdsource-by-ags.csv`, 15: `/blob/master/deaths-rki-by-state.csv`
 
 
 <script type="text/javascript">
