@@ -1,5 +1,5 @@
 % Statistics for jgehrcke/covid-19-germany-gae
-% Generated for [jgehrcke/covid-19-germany-gae](https://github.com/jgehrcke/covid-19-germany-gae) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-05-07 22:57 UTC.
+% Generated for [jgehrcke/covid-19-germany-gae](https://github.com/jgehrcke/covid-19-germany-gae) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-05-07 23:12 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `linkedin.com`, 04: `t.co`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/blob/master/cases-rki-by-state.csv`, 03: `/blob/master/cases-rki-by-ags.csv`, 04: `/blob/master/data.csv`, 05: `/tree/master/more-data`, 06: `/blob/master/ags.json`, 07: `/tree/master/examples`, 08: `/tree/master/gae`, 09: `/tree/master/geodata`, 10: `/tree/master/tools`, 11: `/blob/master/cases-rl-crowdsource-by-state.csv`, 12: `/tree/master/plots`, 13: `/blob/master/more-data/7di-rki-by-ags.csv`, 14: `/find/master`, 15: `/blob/master/deaths-rki-by-state.csv`
+Top 15 paths: 01: `/`, 02: `/blob/master/cases-rki-by-state.csv`, 03: `/blob/master/cases-rki-by-ags.csv`, 04: `/blob/master/data.csv`, 05: `/tree/master/more-data`, 06: `/blob/master/ags.json`, 07: `/tree/master/examples`, 08: `/tree/master/gae`, 09: `/tree/master/geodata`, 10: `/tree/master/tools`, 11: `/blob/master/cases-rl-crowdsource-by-state.csv`, 12: `/blob/master/more-data/7di-rki-by-ags.csv`, 13: `/tree/master/plots`, 14: `/find/master`, 15: `/issues`
 
 
 <script type="text/javascript">
