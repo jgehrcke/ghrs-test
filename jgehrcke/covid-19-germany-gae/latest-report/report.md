@@ -1,5 +1,5 @@
 % Statistics for jgehrcke/covid-19-germany-gae
-% Generated for [jgehrcke/covid-19-germany-gae](https://github.com/jgehrcke/covid-19-germany-gae) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-05-10 22:39 UTC.
+% Generated for [jgehrcke/covid-19-germany-gae](https://github.com/jgehrcke/covid-19-germany-gae) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-05-10 22:57 UTC.
 
 
 ## Views
@@ -68,7 +68,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `linkedin.com`, 04: `t.co`, 05: `gehrcke.de`, 06: `Bing`, 07: `DuckDuckGo`, 08: `covid19-germany.appspot.com`, 09: `govdata.de`, 10: `oaseforum.de`, 11: `dannlos.de`, 12: `corona-open-data.ckan.de`, 13: `geomoer.github.io`, 14: `developer.here.com`, 15: `ecosia.org`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `linkedin.com`, 04: `t.co`, 05: `gehrcke.de`, 06: `Bing`, 07: `DuckDuckGo`, 08: `covid19-germany.appspot.com`, 09: `govdata.de`, 10: `oaseforum.de`, 11: `dannlos.de`, 12: `corona-open-data.ckan.de`, 13: `developer.here.com`, 14: `geomoer.github.io`, 15: `StartPage`
 
 
 
