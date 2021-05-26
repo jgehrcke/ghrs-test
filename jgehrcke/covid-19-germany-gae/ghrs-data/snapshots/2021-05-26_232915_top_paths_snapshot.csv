@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jgehrcke/covid-19-germany-gae,477,191
+/jgehrcke/covid-19-germany-gae/blob/master/cases-rki-by-ags.csv,73,40
+/jgehrcke/covid-19-germany-gae/blob/master/cases-rki-by-state.csv,63,27
+/jgehrcke/covid-19-germany-gae/blob/master/cases-rl-crowdsource-by-state.csv,48,11
+/jgehrcke/covid-19-germany-gae/blob/master/data.csv,44,28
+/jgehrcke/covid-19-germany-gae/tree/master/more-data,37,18
+/jgehrcke/covid-19-germany-gae/tree/master/geodata,34,18
+/jgehrcke/covid-19-germany-gae/tree/master/examples,32,23
+/jgehrcke/covid-19-germany-gae/issues,25,7
+/jgehrcke/covid-19-germany-gae/blob/master/geodata/DE-counties.geojson,18,7
