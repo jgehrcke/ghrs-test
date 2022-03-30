@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jgehrcke/github-repo-stats,199,99
+/jgehrcke/github-repo-stats/issues,22,7
+/jgehrcke/github-repo-stats/pulls,10,3
+/jgehrcke/github-repo-stats/issues/49,8,4
+/jgehrcke/github-repo-stats/issues/50,7,3
+/jgehrcke/github-repo-stats/blob/e40eef02e3bd173e6f0d0d5731ada8445a0cb411/ci.Dockerfile,6,2
+/jgehrcke/github-repo-stats/search,5,1
+/jgehrcke/github-repo-stats/blob/main/analyze.py,4,4
+/jgehrcke/github-repo-stats/blob/main/fetch.py,4,4
+/jgehrcke/github-repo-stats/blob/main/.github/workflows/prs.yml,4,3
