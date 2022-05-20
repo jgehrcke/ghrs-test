@@ -11,9 +11,9 @@ jobs:
   j1:
     name: github-repo-stats
     runs-on: ubuntu-latest
-    permissions: write-all
     steps:
       - name: run-ghrs
         uses: jgehrcke/github-repo-stats@HEAD
-
+        with:
+          ghtoken: ${{ secrets.ghrs_github_api_token }}
 
