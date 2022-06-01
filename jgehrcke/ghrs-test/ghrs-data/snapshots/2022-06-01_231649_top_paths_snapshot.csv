@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jgehrcke/ghrs-test,10,2
+/jgehrcke/ghrs-test/actions/workflows/github-repo-stats-test.yml,5,1
+/jgehrcke/ghrs-test/blob/github-repo-stats/.github/workflows/github-repo-stats.yml,3,2
+/jgehrcke/ghrs-test/tree/github-repo-stats/.github/workflows,3,2
+/jgehrcke/ghrs-test/tree/github-repo-stats/jgehrcke/github-repo-stats,3,1
+/jgehrcke/ghrs-test/actions,2,1
+/jgehrcke/ghrs-test/runs/6507739719,2,1
+/jgehrcke/ghrs-test/actions/runs/2352159031,1,1
+/jgehrcke/ghrs-test/actions/runs/2358417833,1,1
+/jgehrcke/ghrs-test/blob/github-repo-stats/.github/workflows/ghrs-ghrs.yml,1,1
