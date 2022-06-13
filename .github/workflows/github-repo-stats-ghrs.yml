@@ -1,9 +1,6 @@
 name: GHRS:ghrs
 on:
   schedule:
-    # Run this once per day.
-    # The specific hour is interpreted in UTC time zone.
-    # Do this towards the end of the UTC day.
     - cron: "0 23 * * *"
   workflow_dispatch: # Allow for running this manually.
 
@@ -16,11 +13,5 @@ jobs:
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           ghpagesprefix: https://jgehrcke.github.io/ghrs-test
-          # Define the target repository, the repo to fetch
-          # stats for and to generate the report for.
           repository: jgehrcke/github-repo-stats
-          # Required token privileges: Can read the target
-          # repo, and can push to the repository this
-          # workflow file lives in (to store data and
-          # the report files).
           ghtoken: ${{ secrets.ghrs_github_api_token }}
