@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: GHRS
-        uses: jgehrcke/github-repo-stats@HEAD
+        uses: jgehrcke/github-repo-stats@RELEASE
         with:
           ghpagesprefix: https://jgehrcke.github.io/ghrs-test
           # Define the target repository, the repo to fetch
