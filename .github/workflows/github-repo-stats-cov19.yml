@@ -1,9 +1,6 @@
-name: github-repo-stats22
-
+name: GHRS:covid-19-germany-gae
 on:
   schedule:
-    # Run this once per day, towards the end of the day for keeping the most
-    # recent data point most meaningful (hours are interpreted in UTC).
     - cron: "0 23 * * *"
   workflow_dispatch: # Allow for running this manually.
 
@@ -12,8 +9,10 @@ jobs:
     name: github-repo-stats
     runs-on: ubuntu-latest
     steps:
-      - name: run-ghrs
-        uses: jgehrcke/github-repo-stats@HEAD
+      - name: GHRS
+        uses: jgehrcke/github-repo-stats@RELEASE
         with:
+          ghpagesprefix: https://jgehrcke.github.io/ghrs-test
+          repository: jgehrcke/covid-19-germany-gae
           ghtoken: ${{ secrets.ghrs_github_api_token }}
 
