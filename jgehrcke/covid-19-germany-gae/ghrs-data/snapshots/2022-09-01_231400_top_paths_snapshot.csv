@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jgehrcke/covid-19-germany-gae,49,19
+/jgehrcke/covid-19-germany-gae/blob/master/cases-rki-by-ags.csv,18,3
+/jgehrcke/covid-19-germany-gae/blob/master/deaths-rki-by-ags.csv,13,1
+/jgehrcke/covid-19-germany-gae/tree/master/geodata,3,2
+/jgehrcke/covid-19-germany-gae/find/master,2,1
+/jgehrcke/covid-19-germany-gae/blob/master/ags.json,1,1
+/jgehrcke/covid-19-germany-gae/blob/master/cases-rki-by-state.csv,1,1
+/jgehrcke/covid-19-germany-gae/blob/master/examples/parse-latest-aggregate.py,1,1
+/jgehrcke/covid-19-germany-gae/blob/master/gae/faviconfiles/android-chrome-512x512.png,1,1
+/jgehrcke/covid-19-germany-gae/blob/master/gae/static/case-rate-rw-2020-11-02.png,1,1
