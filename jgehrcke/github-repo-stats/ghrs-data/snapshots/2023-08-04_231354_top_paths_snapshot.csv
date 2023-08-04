@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jgehrcke/github-repo-stats,80,50
+/jgehrcke/github-repo-stats/wiki/Tutorial,20,10
+/jgehrcke/github-repo-stats/blob/main/pdf.py,10,2
+/jgehrcke/github-repo-stats/blob/main/analyze.py,6,2
+/jgehrcke/github-repo-stats/blob/main/fetch.py,6,1
+/jgehrcke/github-repo-stats/blob/main/tests/data/A/stars.csv,6,1
+/jgehrcke/github-repo-stats/tree/main/.github/workflows,6,1
+/jgehrcke/github-repo-stats/blob/main/README.md,4,1
+/jgehrcke/github-repo-stats/blob/main/resources/template.html,4,1
+/jgehrcke/github-repo-stats/blob/main/tests/data/A/snapshots/2020-12-14_165621_top_paths_snapshot.csv,4,1
