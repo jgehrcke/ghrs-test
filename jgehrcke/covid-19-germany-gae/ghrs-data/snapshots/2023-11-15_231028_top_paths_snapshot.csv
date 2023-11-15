@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/jgehrcke/covid-19-germany-gae,16,10
+/jgehrcke/covid-19-germany-gae/tree/master/more-data,8,3
+/jgehrcke/covid-19-germany-gae/blob/master/deaths-rki-by-ags.csv,5,2
+/jgehrcke/covid-19-germany-gae/blob/master/ags.json,2,1
+/jgehrcke/covid-19-germany-gae/blob/master/data.csv,2,1
+/jgehrcke/covid-19-germany-gae/blob/master/tools/build-rki-csvs.py,2,1
+/jgehrcke/covid-19-germany-gae/tree/master/examples,2,1
+/jgehrcke/covid-19-germany-gae/tree/master/geodata,2,1
