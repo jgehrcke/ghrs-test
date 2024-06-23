@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jgehrcke/covid-19-germany-gae/blob/master/deaths-rki-by-state.csv,23,12
+/jgehrcke/covid-19-germany-gae/tree/master/geodata,21,5
+/jgehrcke/covid-19-germany-gae,12,12
+/jgehrcke/covid-19-germany-gae/blob/master/data.csv,8,3
+/jgehrcke/covid-19-germany-gae/tree/master/plots,5,2
+/jgehrcke/covid-19-germany-gae/tree/master,4,3
+/jgehrcke/covid-19-germany-gae/blob/master/geodata/DE-counties.geojson,4,2
+/jgehrcke/covid-19-germany-gae/blob/master/plots/daily-change-plot-latest.pdf,4,2
+/jgehrcke/covid-19-germany-gae/blob/master/geodata/gen-geojson.sh,4,1
+/jgehrcke/covid-19-germany-gae/blob/master/plots/germany-heatmap-7ti-rki.pdf,4,1
