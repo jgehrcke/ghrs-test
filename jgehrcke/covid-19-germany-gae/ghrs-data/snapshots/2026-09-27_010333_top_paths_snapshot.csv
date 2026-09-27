@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jgehrcke/covid-19-germany-gae,18,13
+/jgehrcke/covid-19-germany-gae/blob/master/cases-rki-by-state.csv,11,4
+/jgehrcke/covid-19-germany-gae/blob/master/cases-rl-crowdsource-by-state.csv,9,2
+/jgehrcke/covid-19-germany-gae/blob/master/deaths-rki-by-state.csv,5,3
+/jgehrcke/covid-19-germany-gae/issues/1840,2,2
+/jgehrcke/covid-19-germany-gae/issues/1841,2,2
+/jgehrcke/covid-19-germany-gae/issues/369,2,2
+/jgehrcke/covid-19-germany-gae/blob/f4a6b893be1188b512151868841419d0ce0d82d6/tools/gen-population-data.py,1,1
+/jgehrcke/covid-19-germany-gae/blob/master/LICENSE,1,1
+/jgehrcke/covid-19-germany-gae/blob/master/README.md,1,1
